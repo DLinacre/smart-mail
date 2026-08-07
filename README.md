@@ -59,7 +59,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LIN4CRE/smart-mail.git
+   git clone https://github.com/DLinacre/smart-mail.git
    cd smart-email
    ```
 
